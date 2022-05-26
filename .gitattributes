@@ -1,2 +1,7 @@
+touch README.md
+git init 
+git add README.md
+git common -m "first commit"
+git push -u origin master
 # Auto detect text files and perform LF normalization
 * text=auto
