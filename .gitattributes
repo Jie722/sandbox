@@ -2,6 +2,5 @@ touch README.md
 git init 
 git add README.md
 git common -m "first commit"
+git remote add origin https://github.com/Jie722/sandbox.git
 git push -u origin master
-# Auto detect text files and perform LF normalization
-* text=auto
